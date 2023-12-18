@@ -5,7 +5,7 @@ const contractABI = require("./abi.json");
 
 // ADDRESSES
 // replace contract address here
-const CONTRACT_ADDRESS = "0x0003a6a4FB3C534D76a225368CDae574614FE590";
+const CONTRACT_ADDRESS = "";
 
 const web3 = new Web3("wss://lively-tiniest-mansion.bsc-testnet.quiknode.pro/d73af593a59c89ff9a35f67e57d8c3de331b9742/");
 
